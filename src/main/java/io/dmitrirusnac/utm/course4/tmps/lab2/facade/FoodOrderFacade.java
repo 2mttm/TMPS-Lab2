@@ -1,8 +1,6 @@
-package io.dmitrirusnac.utm.course4.tmps.lab2.Facade;
+package io.dmitrirusnac.utm.course4.tmps.lab2.facade;
 
-import io.dmitrirusnac.utm.course4.tmps.lab2.adapter.DeliveryAdapter;
 import io.dmitrirusnac.utm.course4.tmps.lab2.adapter.DeliveryService;
-import io.dmitrirusnac.utm.course4.tmps.lab2.adapter.JsonPlaceholderDeliveryService;
 import io.dmitrirusnac.utm.course4.tmps.lab2.decorator.BasicOrder;
 import io.dmitrirusnac.utm.course4.tmps.lab2.decorator.DiscountDecorator;
 import io.dmitrirusnac.utm.course4.tmps.lab2.decorator.GiftDecorator;

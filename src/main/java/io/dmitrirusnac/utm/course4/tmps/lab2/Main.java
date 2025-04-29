@@ -1,6 +1,6 @@
 package io.dmitrirusnac.utm.course4.tmps.lab2;
 
-import io.dmitrirusnac.utm.course4.tmps.lab2.Facade.FoodOrderFacade;
+import io.dmitrirusnac.utm.course4.tmps.lab2.facade.FoodOrderFacade;
 import io.dmitrirusnac.utm.course4.tmps.lab2.adapter.DeliveryAdapter;
 import io.dmitrirusnac.utm.course4.tmps.lab2.adapter.DeliveryService;
 import io.dmitrirusnac.utm.course4.tmps.lab2.adapter.JsonPlaceholderDeliveryService;

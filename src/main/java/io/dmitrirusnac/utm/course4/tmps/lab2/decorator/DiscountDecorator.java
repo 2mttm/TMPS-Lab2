@@ -1,7 +1,7 @@
 package io.dmitrirusnac.utm.course4.tmps.lab2.decorator;
 
 public class DiscountDecorator extends OrderDecorator {
-  private double discount;
+  private final double discount;
 
   public DiscountDecorator(Order order, double discount) {
     super(order);
